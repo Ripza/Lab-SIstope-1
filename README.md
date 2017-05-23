@@ -1,6 +1,7 @@
 Laboratorio 1 creado por :
 
 Felipe Valenzuela
+
 René Zárate
 
 Para realizar la ejecución del programa se debe hacer lo siguiente:
